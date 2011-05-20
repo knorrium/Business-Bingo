@@ -11,7 +11,8 @@ During a conversation on Twitter with [Elias Nogueira](http://twitter.com/eliasn
 Notes
 -----
 
-The version I'm hosting on my [website[(http://knorrium.info/bingo) is set to fallback to the en_US locale. If you want to host it somewhere else, you'll have to change it on the index.php file and the card.php file.
+The version I'm hosting on my [website](http://knorrium.info/bingo) is set to fallback to the en_US locale. If you want to host it somewhere else, 
+you'll have to change it on the index.php file and the card.php file.
 
 
 How to contribute
