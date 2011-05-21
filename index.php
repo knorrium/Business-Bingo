@@ -19,7 +19,7 @@ else {
 			<a href="index.php?lang=pt_BR"><img src="images/br.gif"></a>
 			<a href="index.php?lang=en_US"><img src="images/us.gif"></a>
 		</div>
-		<a href="https://github.com/knorrium/bingo"><img style="position: absolute; top: 0; right: 0; border: 0;" src="images/github.png" alt="Fork me on GitHub"></a>
+		<a href="https://github.com/knorrium/Business-Bingo"><img style="position: absolute; top: 0; right: 0; border: 0;" src="images/github.png" alt="Fork me on GitHub"></a>
 		<center>
 			<?php echo $loc->Translate("INDEX_WELCOME_MSG_1"); ?>
 			<br /><br />
